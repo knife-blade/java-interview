@@ -49,4 +49,4 @@
 |  ****频率****  |  很少问到  |          |          |            |  几乎必问    |
 
 ## 获取面试题
-面试题在自学精灵这个网站上，地址是：[https://learn.skyofit.com/archives/66](https://learn.skyofit.com/archives/66)，也可以百度搜索自学精灵，在首页即可找到面试题。
+面试题在自学精灵这个网站上，地址是：[https://learn.skyofit.com/archives/66](https://learn.skyofit.com/archives/66)，也可以百度搜索自学精灵，在首页即可找到面试题
